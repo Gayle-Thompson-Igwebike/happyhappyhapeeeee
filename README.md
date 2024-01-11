@@ -1,8 +1,8 @@
 # happyhappyhapeeeee
 
-a website for happy people more info about ......
+This a website for happy Gayle.
 
-helloooo ndndygyfuiwa
+It has been created for the beginners guide to Git and GitHub tutorial for Sigma Labs.
 
 
 
